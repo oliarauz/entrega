@@ -1,0 +1,43 @@
+@font-face {
+    font-family: fuentePortfolio;
+    src: url(../FUENTES/Mulish-Bold.ttf);
+    
+    
+}
+@font-face {
+    font-family: fuentePortfolio2;
+    src: url(../FUENTES/FiraCode-Regular.ttf);
+    
+}
+@font-face {
+    font-family: fuentePortfolio3;
+    src: url(../FUENTES/Mulish-Regular.ttf);}
+
+
+body{ background-color: black;
+    font-size: 250%;
+    line-height: 90px;
+    font-family: fuentePortfolio;
+    background-image: url(../IMAGENES/FONDO.png);
+    background-size: 99%;
+    }
+
+h2{ font-family: fuentePortfolio2;
+    line-height: 31px;
+    font-size: 20px;}
+
+p{  font-family: fuentePortfolio3;
+    width: 280px;
+    font-size: 14px;
+    line-height: 1.3;
+    position: relative;
+    bottom: -80px;}
+p1{
+    font-family: fuentePortfolio;
+    font-size: 14px;
+    font-stretch: normal ;
+    line-height: 31px;
+    position: absolute;
+    bottom: 130px;}
+
+    
